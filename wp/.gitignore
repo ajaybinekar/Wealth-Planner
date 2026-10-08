@@ -1,0 +1,13 @@
+/.bundle/
+/vendor/bundle
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/storage/*
+!/storage/.keep
+.env*
+/frontend/node_modules
+/frontend/dist
+*.sqlite3
+*.sqlite3-*
